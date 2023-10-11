@@ -1,0 +1,12 @@
+.typo h1{
+    font-size: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 30px;
+}
+.inline{
+    display: inline-flex;
+}
+.center{
+    margin-top: 200px;
+}
