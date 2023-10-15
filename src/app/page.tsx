@@ -7,7 +7,8 @@ export default function Home() {
     <main className="">
       <div className='header'>
         <header>
-          <h1>WebVid</h1>
+        <a href="/pageconnexion"><h2>Connexion</h2></a>
+        <h1>WebVid</h1>
         </header>
         <div className='size line'>
           {data.map((item, index) => (
